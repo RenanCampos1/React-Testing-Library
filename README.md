@@ -48,7 +48,7 @@ Tecnologias aplicadas no projeto
 Clone o repositório: 
 
 ```
-git clone git@github.com:D-Wolter/Projeto-React-Testing-Library.git
+git clone https://github.com/RenanCampos1/React-Testing-Library
 ```
 Instale as dependências do projeto:
 ```
